@@ -8,7 +8,7 @@ export default function historia() {
         <>
             <div className={style.historiaBox} style={{ backgroundImage: `url('${foto.src}')`, width: '100%', height: '100%', backgroundRepeat: 'round' }}>
 
-                <h1 style={{color: '#fff'}}>História</h1>
+                <h1 style={{color: '#fff', backgroundColor: '#000', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>História</h1>
 
                 <Card
                     title="O INÍCIO"
