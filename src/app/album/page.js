@@ -138,17 +138,6 @@ export default function album() {
                 </div>
 
                 <div className={styles.albumFotoBoxIndividual}>
-                    <span>Sensualizando kk 😋</span>
-                    <Image
-                        src={Foto11}
-                        height='300'
-                        width='250'
-                        alt="Foto"
-                        className={styles.albumFoto}
-                    />
-                </div>
-
-                <div className={styles.albumFotoBoxIndividual}>
                     <span>Focada 💪</span>
                     <Image
                         src={Foto12}

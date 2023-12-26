@@ -10,7 +10,7 @@ export default function Questionario() {
 
                 <h1 style={{color: '#fff'}}>QUESTIONÁRIO</h1>
 
-                <p style={{color: '#fff'}}>Em desemvolvimento</p>
+                <p style={{color: '#fff'}}>Em desenvolvimento</p>
 
 
                 

@@ -78,7 +78,7 @@ export default function Menu() {
 
                 <Link
                     target='_blank'
-                    href="https://api.whatsapp.com/send?phone=5588996137358&text=Estou com saudades, que te ver"
+                    href="https://api.whatsapp.com/send?phone=5588996137358&text=Estou com saudades, quero te ver"
                     shape="circle"
                     onClick={onClose}>
                     <div style={{ display: 'flex', alignItems: 'center' }}>
