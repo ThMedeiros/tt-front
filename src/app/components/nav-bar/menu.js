@@ -6,6 +6,7 @@ import { HiOutlinePhotograph } from "react-icons/hi";
 import { BsBook } from "react-icons/bs";
 import { FcAnswers } from "react-icons/fc";
 import { FaWhatsapp } from "react-icons/fa6";
+import { FcLike } from "react-icons/fc";
 
 
 
@@ -71,6 +72,16 @@ export default function Menu() {
 
                         <FcAnswers style={{ fontSize: 22, margin: 8 }} />
                         <span style={{ fontSize: 16 }}>Questionário</span>
+
+                    </div>
+                </Link>
+                <Divider style={{ margin: 0 }} />
+
+                <Link href='/pedido' onClick={onClose}>
+                    <div style={{ display: 'flex', alignItems: 'center' }}>
+
+                        <FcLike style={{ fontSize: 22, margin: 8 }} />
+                        <span style={{ fontSize: 16 }}>Pedido</span>
 
                     </div>
                 </Link>

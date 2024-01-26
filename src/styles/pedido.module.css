@@ -1,0 +1,40 @@
+.PedidoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to top, rgb(65, 1, 1), black);
+}
+
+.PedidoCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.PedidoButton1 {
+    margin: 5px;
+
+}
+
+.PedidoButton1:hover {
+    background-color: green;
+    color: #fff;
+    
+    }
+
+.PedidoButton2 {
+    margin: 5px;
+
+}
+
+.PedidoButton2:hover {
+
+
+}
