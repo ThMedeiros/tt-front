@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import styles from '@/styles/app.module.css'
-import foto from '../../public/assets/images/04.jpeg'
+import foto from '../../public/assets/images/foto.jpeg'
 import { Button } from 'antd'
 import Link from 'next/link'
 
