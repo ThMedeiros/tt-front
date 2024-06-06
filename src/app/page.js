@@ -10,7 +10,7 @@ export default function Home() {
 
       <div style={{ backgroundColor: '#fff', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', padding: 10, margin: 20, borderRadius: 10 }}>
 
-        EU TE AMO!!! ❤️
+        EU TE AMO!!!! ❤️
         <br/>
 
       </div>
